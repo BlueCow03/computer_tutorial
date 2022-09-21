@@ -13,7 +13,7 @@
       
     <div id="wrapper">
         <div id="container">
-            <a href="https://bluecow03.github.io/pythonst/tuto.md"><h1>Computer Tutorial</h1></a>
+            <a href="https://bluecow03.github.io/tuto.md"><h1>Computer Tutorial</h1></a>
           <p>클릭해주세요.</p>
         </div>
     </div>
